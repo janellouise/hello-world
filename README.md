@@ -1,2 +1,3 @@
 # hello-world
 This my first repository on my journey to learning how to code and to getting my research work done, dissertation written and my PhD finished.
+I am almost 50, and at NCSU to get my PhD in soil science. THis would normally be a straight forward process involving lab work, maybe some field work, but for my project I need to learn coding to pull information out of hyperspectral images and then use deep learning to model them.  THis is what the project is initially anyway, and I am trying to understand how to get this all done. I am trying to use AI to understand the conections in my data. 
